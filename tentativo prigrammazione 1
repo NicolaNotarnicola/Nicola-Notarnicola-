@@ -1,0 +1,26 @@
+<style>
+h1(color:blue;
+  background:red;
+  font-size:20px;
+  )
+h2(color:red;
+   background:wight;
+   font-size:15px;
+   )
+</style>
+
+<h1> Benvenuti nel mio primo sito in ternet </h1>
+<h2> È solo il primo tentativo quinddi non mi aspetto troppo ahah </h2>
+<P>
+Anche solo riuscire a vedere il titolo in blu su fondo rosso e il sottotilo in rosso su fondo bianco sadrebbe per me una grande vittoria ahah
+</p>
+
+<P>
+Adesso proverò a creare un collegamento, un link ad un video di youtube
+</p>
+<h2> <a href=https://www.youtube.com/watch?v=Q3AGvmFfKcI> LINK DEL VIDEO </a> </h2>
+<h1> si spera </h2>
+<P>
+Se il link ha funzionato siete stati celebralmente scossi da un video di orsi che ballano sweet dreams
+se così non è stato me ne dispiaccio
+</P>
